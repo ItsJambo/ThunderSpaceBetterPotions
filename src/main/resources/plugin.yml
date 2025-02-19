@@ -1,0 +1,4 @@
+name: ThunderSpaceBetterPotions
+version: '${version}'
+main: com.itsjambo.thunderspacebetterpotions.ThunderSpaceBetterPotions
+api-version: '1.16'
